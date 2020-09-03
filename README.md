@@ -1,4 +1,4 @@
-# api-server app
+# Api-server app
 
 An API server application. 
 
