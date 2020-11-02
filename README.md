@@ -4,7 +4,7 @@ An API server application.
 
 ## Required Libraries:
 
-- N/A
+- express
 
 
 ## Setup:
